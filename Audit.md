@@ -25,3 +25,4 @@
 | Project uses MIT License | No | No `LICENSE` file exists in the repository. Licence section removed. |
 | `pip install -r requirements.txt` is a valid installation step | No | No dependency file exists and no external packages are required. Command removed. |
 | Project contains a factorial calculator | Yes | `factorial.py` calculates factorial of the fixed value `5`. |
+ 
